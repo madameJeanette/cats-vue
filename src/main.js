@@ -2,8 +2,8 @@ Vue.component("message", {
   template: `
   <div class = "message">
     <h1>{{ message }}</h1>
-    <input v-model="message">
-    <button v-on:click="">Add le kitteh</button>
+    <input type = "text" v-model="message" placeholder="add new Cat here"/>
+    <button v-on:click="addCat()" class="btn btn-primary btn-sm">Add le kitteh</button>
   </div>
   `,
   data(){
