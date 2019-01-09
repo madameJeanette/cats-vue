@@ -3,7 +3,7 @@
 ## cats-vue
 ```
 A cat pokedex for all your crazy cat lady needs. =^^=
-Simple list with name input with local storage.
+Simple list app with name input and local storage.
 ```
 
 ### Project setup
