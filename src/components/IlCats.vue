@@ -1,6 +1,7 @@
 <template>
   <div class="ilcats">
     <h1>Crazy cat lady PokeDex</h1>
+    <img src="../assets/animals-cats-cute-45170.jpg" alt="Five cute baby cats in a row" width="800" height= auto>
     <h3>{{ message }}</h3>
     <input type="text" v-model="message">
     <button v-on:click="addCat()" class="btn btn-primary btn-sm">Add le kitteh</button>
