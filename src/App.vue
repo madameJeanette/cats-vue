@@ -6,13 +6,13 @@
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld'
+
 import IlCats from './components/IlCats'
 
 export default {
   name: 'App',
   components: {
-    HelloWorld,
+    
     IlCats
   }
 }
