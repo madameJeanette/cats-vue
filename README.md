@@ -1,11 +1,12 @@
-#Crazy Cat Lady PokeDex
+# Crazy Cat Lady PokeDex
+
 ## cats-vue
 ```
 A cat pokedex for all your crazy cat lady needs. =^^=
 Simple list with name input with local storage.
 ```
 
-## Project setup
+### Project setup
 ```
 npm install
 ```
